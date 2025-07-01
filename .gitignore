@@ -31,7 +31,8 @@ runs/
 
 # Model files
 *.pth
-*.onnx
+# SUIVRE model.onnx pour le web
+!model.onnx
 
 # Images
 *.png
