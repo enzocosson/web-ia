@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.pdb
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+.venv
+
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# TensorBoard
+runs/
+
+# Data
+/data/
+
+# Model files
+*.pth
+*.onnx
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# MacOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Env
+.env
+.env.*
+
+# Others
+*.bak
+*.tmp
+
